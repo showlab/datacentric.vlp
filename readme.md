@@ -1,6 +1,7 @@
 # Data-Centric Vision-Language Pre-training
 
-The purpose of this project is to **compress existing Large-scale Vision-Language Pre-training dataset** without drop the performance.
+
+The purpose of this project is to **<span style="color:green">compress existing Large-scale Vision-Language Pre-training dataset</span>** without drop the performance.
 We want the communtity pay more attention to data.
 
 This work **is in progress**, now the compression rate is around 70%-80%.
