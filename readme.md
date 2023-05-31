@@ -1,6 +1,7 @@
 # Data-Centric Vision-Language Pre-training
 
 The purpose of this project is to **compress existing Large-scale Vision-Language Pre-training dataset** without drop the performance.
+We want the communtity pay more attention to data.
 
 This work **is in progress**, now the compression rate is around 70%-80%.
 
@@ -61,5 +62,9 @@ Compression Rate: 83.33%
 ### d. LAION-Subset
 Compression Rate: 80%
 
+## Acknowledgement
 
-## Citation
+This work is mainly inspired by [Dataset Distillation](https://arxiv.org/abs/1811.10959) and [Data Pruning](https://arxiv.org/abs/2206.14486).
+Thanks for these good works.
+
+<!-- ## Citation -->
