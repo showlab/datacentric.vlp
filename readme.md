@@ -4,9 +4,9 @@
 The purpose of this project is to **<span style="color:green">compress existing Large-scale Vision-Language Pre-training dataset</span>** without drop the performance.
 We want the communtity pay more attention to data.
 
-This work **is in progress**, now the compression rate is around 70%-80%.
+> This work **is still in progress**, now the compression rate is around 70%-80%.
 
-And the data selection strategy is quite simple but works now, we are exploring more sloid methods.
+> And the data selection strategy is quite simple but works well now, we are exploring more sloid methods.
 
 
 ## 1. Conventional Vision-language Datasets
