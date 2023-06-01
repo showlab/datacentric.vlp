@@ -72,8 +72,10 @@ Thanks for these good works.
 
 If you find our work helps, please use the following BibTeX entry for citation.
 
+```
 @article{wang2023tldr,
   title={Too Large; Data Reduction for Vision-Language Pre-Training},
   journal={arXiv preprint arXiv:2305.20087},
   year={2023}
 }
+```
