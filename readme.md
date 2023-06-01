@@ -68,4 +68,12 @@ Compression Rate: 80%
 This work is mainly inspired by [Dataset Distillation](https://arxiv.org/abs/1811.10959) and [Data Pruning](https://arxiv.org/abs/2206.14486).
 Thanks for these good works.
 
-<!-- ## Citation -->
+## Citation
+
+If you find our work helps, please use the following BibTeX entry for citation.
+
+@article{wang2023tldr,
+  title={Too Large; Data Reduction for Vision-Language Pre-Training},
+  journal={arXiv preprint arXiv:2305.20087},
+  year={2023}
+}
