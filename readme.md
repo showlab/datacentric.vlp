@@ -75,7 +75,7 @@ If you find our work helps, please use the following BibTeX entry for citation.
 ```
 @article{wang2023tldr,
   title={Too Large; Data Reduction for Vision-Language Pre-Training},
-  author={Alex Jinpeng Wang , Kevin Qinghong Lin, David Junhao Zhang, Stan Weixian Lei and Mike Zheng Shou },
+  author={Alex Jinpeng Wang, Kevin Qinghong Lin, David Junhao Zhang, Stan Weixian Lei and Mike Zheng Shou },
   journal={arXiv preprint arXiv:2305.20087},
   year={2023}
 }
