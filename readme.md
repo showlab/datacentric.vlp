@@ -1,5 +1,6 @@
 # Data-Centric Vision-Language Pre-training
 
+[Arxiv](https://arxiv.org/pdf/2305.20087.pdf)
 
 ![](images/motivation.png)
 
